@@ -1,0 +1,23 @@
+data/
+# Virtual Environment
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Vector databases
+vector_store/
+
+# Data files (optional)
+data/raw/
